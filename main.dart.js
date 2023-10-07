@@ -48501,7 +48501,7 @@ a.pd()
 A.QX(e,a,t.Q3)
 a=$.aU9()
 a=A.aQl(B.Au,B.ay,B.CA,new A.w8(A.aNw(f,f,B.Em,f,f,f,f,f,f,f,f,f,f,f,B.y3,f,f,f,f)),B.e_,B.MG,B.i,a,f)
-return new A.Cy(A.b83(),"Flutter Demo",a,!1,$.aX2(),f)}}
+return new A.Cy(A.b83(),"Crown Bookstore",a,!1,$.aX2(),f)}}
 A.m6.prototype={
 k(a){return"AppPage.category()"},
 j(a,b){var s
