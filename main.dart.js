@@ -48795,7 +48795,7 @@ o=p.f$
 o===$&&A.b()
 J.AI(o,new A.ab5(a))
 p.x$.dG(p.gk(p))
-A.l5("Category is deleted successfully")
+A.l5("Division is deleted successfully")
 return A.F(null,r)}})
 return A.G($async$eH,r)},
 jq(){this.ch.fg(0,B.bt)
